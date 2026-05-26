@@ -3,7 +3,7 @@
 ## This is a Student Data Organizer program based on python which is built to manage the collection of students' Data.
 ### In this program I have built an organizer to store and manage the student information like student name, student age, student id, student birth year, student grade and student subjects.
  
-###Features-
+### Features-
 
 1. **Collection and Conversion:**  Converted the student age into integer, and student id and birth year into tuple and collected the subjects in set and collected all the student information using key-value pairs through dictionary.
 2. **del Keyword:**  Applied del keyword to delete the information of a student.
@@ -27,7 +27,7 @@ f. Exit the program.
 7. Displayed all Subjects Offered to the Students.
 8. Exit the program, after completing all tasks.
 
-###Technology Used-
+### Technology Used-
 
 Python 3 
 
