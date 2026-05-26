@@ -42,4 +42,11 @@ Python 3
 7. Joining of the elements of set
 8. break, pass and continue statements
 
+<img width="1321" height="655" alt="Screenshot 2026-05-26 143754" src="https://github.com/user-attachments/assets/747a9785-ac6b-4601-bbb6-ac54ffdc7bf5" />
+<img width="1362" height="659" alt="Screenshot 2026-05-26 143808" src="https://github.com/user-attachments/assets/227b65b3-bb95-48fe-9717-d5ff1b164aeb" />
+<img width="1347" height="653" alt="Screenshot 2026-05-26 143841" src="https://github.com/user-attachments/assets/763b35e6-fbf2-4545-a1fa-66233a26969b" />
+<img width="1376" height="632" alt="Screenshot 2026-05-26 143905" src="https://github.com/user-attachments/assets/414a8e5e-77a2-418e-8055-4e7784a80189" />
+<img width="1386" height="314" alt="Screenshot 2026-05-26 143921" src="https://github.com/user-attachments/assets/5be3475e-9884-47d9-9c4d-cec3f037707b" />
+
+
 
